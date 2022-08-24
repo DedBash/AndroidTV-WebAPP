@@ -3,7 +3,7 @@ Is an app for all current AndroidTV versions e.g. MI TVs or FireTV sticks.
 ## Requirements
 - <a href="https://developer.android.com/studio">Android Studio</a>
 ## URL Change
-Go to `java>systems>kiznaiver>webapp>MainActivity.java` <br>
+Go to `java>systems>kiznaiver>webappp>MainActivity.java` <br>
 and change the "&#60;Change me&#62;" to your URL so that it looks like this:
 ```java
 12
