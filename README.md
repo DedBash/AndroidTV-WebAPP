@@ -22,7 +22,7 @@ Once you have changed the URL you can build the app via the header `Build>Build 
 For ADB:<br>
 If you want to start the APP via ADB you have to execute 
 ```bash
-adb shell am start systems.kiznaiver.webapp/systems.kiznaiver.webapp.MainActivity
+adb shell am start systems.kiznaiver.webappp/systems.kiznaiver.webappp.MainActivity
 ```
 in the adb shell
 
