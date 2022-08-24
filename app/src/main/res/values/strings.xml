@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Change ME Name</string>
+    <string name="app_name">Change ME</string>
 
     <!-- Error messages -->
     <string name="error_fragment_message">An error occurred</string>
