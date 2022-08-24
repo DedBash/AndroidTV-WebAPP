@@ -25,3 +25,21 @@ If you want to start the APP via ADB you have to execute
 adb shell am start systems.kiznaiver.webapp/systems.kiznaiver.webapp.MainActivity
 ```
 in the adb shell
+
+## Images
+<details>
+<summary>Change the URL</summary>
+<img src="https://github.com/Kiznaiver-Systems/AndroidTV-WebAPP/raw/main/.img/Change_URL.png" title="Change URL">
+</details>
+<details>
+<summary>Change the Name</summary>
+<img src="https://github.com/Kiznaiver-Systems/AndroidTV-WebAPP/raw/main/.img/Change_name.png" title="Change Name">
+</details>
+<details>
+<summary>Build the APP</summary>
+<img src="https://github.com/Kiznaiver-Systems/AndroidTV-WebAPP/raw/main/.img/Build_APP.png" title="Build APP">
+</details>
+<details>
+<summary>Screenshots</summary>
+<img src="https://github.com/Kiznaiver-Systems/AndroidTV-WebAPP/raw/main/.img/Build_APP.png" title="Build APP">
+</details>
