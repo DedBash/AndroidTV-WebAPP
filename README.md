@@ -28,18 +28,30 @@ in the adb shell
 
 ## Images
 <details>
-<summary>Change the URL</summary>
+<summary><b>Change the URL</b></summary>
 <img src="https://github.com/Kiznaiver-Systems/AndroidTV-WebAPP/raw/main/.img/Change_URL.png" title="Change URL">
 </details>
 <details>
-<summary>Change the Name</summary>
+<summary><b>Change the Name</b></summary>
 <img src="https://github.com/Kiznaiver-Systems/AndroidTV-WebAPP/raw/main/.img/Change_name.png" title="Change Name">
 </details>
 <details>
-<summary>Build the APP</summary>
+<summary><b>Build the APP</b></summary>
 <img src="https://github.com/Kiznaiver-Systems/AndroidTV-WebAPP/raw/main/.img/Build_APP.png" title="Build APP">
 </details>
 <details>
-<summary>Screenshots</summary>
-<img src="https://github.com/Kiznaiver-Systems/AndroidTV-WebAPP/raw/main/.img/Build_APP.png" title="Build APP">
+<summary><b>Screenshots</b></summary>
+<br>
+<details>
+  <summary>APP Install</summary>
+  <img src="https://github.com/Kiznaiver-Systems/AndroidTV-WebAPP/raw/main/.img/app_install.png" title="App Install">
+  </details>
+  <details>
+  <summary>APP in Appselector</summary>
+  <img src="https://github.com/Kiznaiver-Systems/AndroidTV-WebAPP/raw/main/.img/app_show.png" title="App drawer">
+  </details>
+  <details>
+  <summary>Screenshots</summary>
+  <img src="https://github.com/Kiznaiver-Systems/AndroidTV-WebAPP/raw/main/.img/app_inside.png" title="Inside the APP">
+  </details>
 </details>
