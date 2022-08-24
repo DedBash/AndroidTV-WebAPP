@@ -40,6 +40,10 @@ in the adb shell
 <img src="https://github.com/Kiznaiver-Systems/AndroidTV-WebAPP/raw/main/.img/Build_APP.png" title="Build APP">
 </details>
 <details>
+<summary><b>Run ADB Start up</b></summary>
+<img src="https://github.com/Kiznaiver-Systems/AndroidTV-WebAPP/raw/main/.img/ADB.png" title="ADB Startup">
+</details>
+<details>
 <summary><b>Screenshots</b></summary>
 <br>
 <details>
