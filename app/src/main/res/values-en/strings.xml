@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TV Web Browser</string>
+    <string name="app_name">DashScreen</string>
     <string name="menu_title">Menu</string>
     <string name="url_hint">Enter URL</string>
     <string name="save_url_button">Save &amp; Load URL</string>
@@ -8,9 +8,9 @@
     <string name="ssl_checkbox_label">Ignore SSL errors</string>
     <string name="close_menu_button">Close Menu</string>
     <string name="info_dialog_title">About App</string>
-    <string name="info_dialog_message">This app was created to display a website on an Android TV.\n\nDeveloped with the help of Gemini.</string>
+    <string name="info_dialog_message">An app from Deads.dev that allows you to use your TV as an ad or similar.</string>
     <string name="select_language_title">Select Language</string>
     <string name="dialog_ok">OK</string>
     <string name="welcome_title">Welcome!</string>
-    <string name="welcome_message">Press right on your remote to open the menu. You can change all settings there.</string>
+    <string name="welcome_message">Press right (it may take a few clicks) to open the menu. But first close this window.</string>
 </resources>
