@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TV Web Browser</string>
+    <string name="menu_title">Menü</string>
+    <string name="url_hint">URL eingeben</string>
+    <string name="save_url_button">URL Speichern &amp; Laden</string>
+    <string name="language_button">Sprache ändern</string>
+    <string name="info_button">Info</string>
+    <string name="ssl_checkbox_label">SSL-Fehler ignorieren</string>
+    <string name="close_menu_button">Menü schließen</string>
+    <string name="info_dialog_title">Über die App</string>
+    <string name="info_dialog_message">Diese App wurde erstellt, um eine Webseite auf einem Android TV anzuzeigen.\n\nEntwickelt mit Hilfe von Gemini.</string>
+    <string name="select_language_title">Sprache auswählen</string>
+    <string name="dialog_ok">OK</string>
+    <string name="welcome_title">Willkommen!</string>
+    <string name="welcome_message">Drücken Sie auf der Fernbedienung nach rechts, um das Menü zu öffnen. Hier können Sie alle Einstellungen vornehmen.</string>
+</resources>
